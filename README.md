@@ -19,4 +19,4 @@ Run the command below that is based on your current server settings as described
 
 # Run the command below to Install TurnUpSecurityShield Server Protection Tools Generic Version
 
-**sudo curl -o generic_turnupsecshield_tools.sh -L https://github.com/turnuphosting/turnupsecurityshield/releases/download/downloads/generic_turnupsecshield_tools.sh && sudo bash generic_turnupsecshield_tools.sh**
+**sudo curl -o generic_turnupsecshield_tools.sh -L https://github.com/turnuphosting/turnupsecurityshield/releases/download/download/generic_turnupsecshield_tools.sh && sudo bash generic_turnupsecshield_tools.sh**
